@@ -1,10 +1,10 @@
-# Flappy Bird Clone by Alejandra Hale
+# Flappy Bird Aleja's Version
 
-This is the repository for my Flappy Bird Clone, a project built with the Unity Engine specifically for macOS. Designed with the aim of exploring game development concepts such as collision detection, score tracking, and basic UI elements, this game serves as an educational tool and a practice project for budding game developers or anyone interested in game design and development.
+This is the repository for my version of Flappy Bird, a project built with the Unity Engine specifically for macOS. Designed with the aim of exploring game development concepts such as collision detection, score tracking, and basic UI elements, this game serves as an educational tool and a practice project for budding game developers or anyone interested in game design and development.
 
 ## About the Game
 
-In this Flappy Bird Clone, players control a bird, navigating it through a series of obstacles to achieve the highest possible score. The game ends when the bird collides with an obstacle or flies out of the playable area, displaying a "Game Over" message along with the option to restart the game. This project is perfect for those looking to understand the basics of game development using Unity.
+In this Flappy Bird, players control a bird, navigating it through a series of obstacles to achieve the highest possible score. The game ends when the bird collides with an obstacle or flies out of the playable area, displaying a "Game Over" message along with the option to restart the game. This project is perfect for those looking to understand the basics of game development using Unity.
 
 ## Download and Play
 
